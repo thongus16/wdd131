@@ -6,7 +6,7 @@ body {
 #content {
     max-width: 750px;
     margin: 20px auto;
-    border: 1px solid darkgray;
+    border: 1px solid darkgrey;
     padding: 50px;
 }
 
@@ -21,7 +21,7 @@ p, li {
 hr {
     height: 0px;
     width: 80%;
-    border: 1px solid #ddd;
+    border: 1px solid lightgray;
     margin-top: -10px;
 }
 
