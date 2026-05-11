@@ -45,3 +45,7 @@ img {
     background-color: #000;
     color: white;
 }
+
+.highlight {
+    background-color: yellow;
+}

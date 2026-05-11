@@ -15,6 +15,10 @@ let title = document.querySelector("h1");
 
 title.textContent = "Web Page Components";
 
+title.addEventListener('click', function(){
+    title.classList.toggle('highlight')
+})
+
 const topics = document.querySelector("#topics");
 
 topics.style.color = "purple";
